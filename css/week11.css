@@ -1,0 +1,243 @@
+.left {
+	overflow: auto;
+	height: 660px;
+	background-color: #e6e8e9;
+}
+
+.right p{
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.left button {
+	width: 190px;
+	text-align: left;
+	background-color: #e6e8e9;
+}
+
+.border {
+	border-widh: 0px unset; #71df96!important;d
+}
+
+.border:hover {
+	background-color: #757d81;
+	marks: crop;d
+}
+
+.border {
+    border: 1px solid #e6e8e9!important;
+}
+
+.tutorial {
+	width: 120px;
+}
+
+.reference {
+	width: 120px;
+}
+ 
+#school {
+	height: 80px;
+	font-size: 19px;
+	border: 0px hidden;
+    background-color: white;
+} 
+#school:hover {
+     background-color: green;
+	color: white;
+}
+
+.exercise {
+	width: 100px;
+}
+
+.video {
+	width: 100px;
+}
+
+#upgrade {
+	height: 45px;
+	width: 100px;
+	color: white;
+	background-color: black;
+	border: unset;
+	border-radius: 25px;
+	font-size: 17px;
+}
+#upgrade:hover {
+	background-color: #00000096;
+}
+
+#get {
+	height: 45px;
+	width: 150px;
+	background-color: #f3a9b4d4;
+	border-radius: 25px;
+	font-size: 17px;
+	border: unset;
+	padding: 0px 0px 0px 0px;
+}
+#get:hover {
+	background-color: #f3a9b4f7;
+}
+
+#create {
+	height: 45px;
+	width: 150px;
+	background-color: #ffff0075;
+	border-radius: 25px;
+	font-size: 17px;
+	border: unset;
+}
+#create:hover{
+	background-color: #ffff00a6;
+}
+
+pre {
+	margin-bottom: 0px;
+}
+#log {
+    height: 45px;
+	width: 100px;
+	color: white;
+	background-color: #008000cc;
+	border-radius: 25px;
+	font-size: 17px;
+	border: unset;
+}
+#log:hover {
+	background-color: #008000e6;
+}
+
+.second {
+	height: 45px;
+	background-color: #000000d1;
+}
+
+.secondnav {
+	height: 45px;
+	border: unset;
+	font-weight: bold;
+    background-color: inherit;
+    color: white;
+}
+
+.secondnav:hover {
+	background-color: black;
+}
+
+.sechtml {
+	width: 80px;
+}
+
+.seccss {
+	width: 55px;
+}
+
+.secpython {
+	width: 110px;
+}
+
+.secjav {
+     width: 130px;
+}
+
+.secjava{
+	width: 70px;
+}
+
+.secsql {
+	width: 60px;
+}
+
+.secphp {
+	width: 55px;
+}
+
+.secboot {
+	width: 130px;
+}
+
+.sechow {
+	width: 90px;
+}
+
+.seccp {
+	width: 60px;
+}
+
+.secw3 {
+	width: 80px;
+}
+
+.secc {
+	width: 40px;
+}
+
+.div-add {
+    padding-left: 20px;
+}
+
+.htmltutorial {
+	font-size: 40px;
+	margin-top: 40px;
+}
+
+.firsthme {
+	float: left;
+	height: 45px;
+	width: 110px;
+	background-color: #008000cc;
+	color: white;
+	font-size: 17px;
+	border: unset;
+	padding: 0px 0px 0px 0px;
+}
+
+.firstnxt {
+	float: right;
+	height: 45px;
+	width: 110px;
+	background-color: #008000cc;
+	color: white;
+	font-size: 17px;
+	border: unset;
+	padding: 0px 0px 0px 0px;
+}
+
+.btn-hover:hover {
+	background-color: #008000e6;
+}
+
+.diffcolor {
+	background-color: lightblue;
+	height: 330px;
+}
+
+.diffcolor p {
+	padding: 40px 0px 0px 40px;
+}
+
+.secdiff {
+	height: 45px;
+	width: 260px;
+	background-color: #008000cc;
+	color: white;
+	font-size: 17px;
+	border: unset;
+	padding: 0px 0px 0px 0px;
+}
+
+.watch {
+	height: 45px;
+	width: 200px;
+	background-color: #000000d1;
+	color: white;
+	font-size: 17px;
+	border: unset;
+	padding: 0px 0px 0px 0px;
+}
+
+.watch:hover {
+	background-color: black;
+}
