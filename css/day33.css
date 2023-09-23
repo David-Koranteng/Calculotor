@@ -1,0 +1,53 @@
+.container{
+	width: 30%;
+	height: 70vh;
+	background-color: black;
+	margin-top: 30px;
+	border-radius: 25px;
+	display: flex;
+}
+
+ input{
+	width: 90px;
+	height: 55px;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: #7a999d;	
+}
+
+input:hover{
+	color: #720b85;
+}
+
+.large input {
+	width: 375px;
+	height: 90px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 8px;
+	color: white;
+	background-color: gray;
+}
+
+.big {
+	width: 184px;
+	margin-left: px;
+}
+
+.orange, #orange {
+	background-color: orange;
+	color: white;
+}
+
+#orange:hover{
+	color: black;
+}
+
+.first input{
+	background-color: blue;
+	color: white;
+}
+
+.first input:hover{
+	background-color: #00b2ff;
+}
